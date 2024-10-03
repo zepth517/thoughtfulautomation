@@ -1,14 +1,1 @@
-```(env) yang.zhao@CAI-C02YV0FTLVDT misc % python sort.py 10 10 10 10```       
-```STANDARD```
-```(env) yang.zhao@CAI-C02YV0FTLVDT misc % python sort.py 10 10 10 25```
-```SPECIAL```
-```(env) yang.zhao@CAI-C02YV0FTLVDT misc % python sort.py 10 10 100000000 25```
-```REJECTED```
-```(env) yang.zhao@CAI-C02YV0FTLVDT misc % python sort.py 10 10 100000000 10```
-```SPECIAL```
-```(env) yang.zhao@CAI-C02YV0FTLVDT misc % python sort.py 10 10 10```          
-```please enter the correct inputs: python sort.py width height length mass```
-```(env) yang.zhao@CAI-C02YV0FTLVDT misc % python sort.py 10 10 10 xx```
-```please enter the correct inputs: python sort.py width height length mass```
-```(env) yang.zhao@CAI-C02YV0FTLVDT misc % ```
-```(env) yang.zhao@CAI-C02YV0FTLVDT misc % ```
+<img width="542" alt="Screenshot 2024-10-03 at 12 18 21 PM" src="https://github.com/user-attachments/assets/ade3705c-e1c6-41e2-be2b-4ac9181d432c">
