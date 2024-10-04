@@ -15,10 +15,10 @@ def sort(width, height, length, mass):
     _heavy = False
 
     _volume = width * height * length
-    _dimensions = width + height + length
+    # _dimensions = width + height + length
     _mass = mass
     
-    if _volume >= R_VOLUME or _dimensions >= R_DIMENSIONS:
+    if _volume >= R_VOLUME or width >= R_DIMENSIONS or height >= R_DIMENSIONS or length >= R_DIMENSIONS:
         _bulky = True
 
     if _mass >= R_MASS:
